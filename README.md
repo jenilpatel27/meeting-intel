@@ -84,7 +84,7 @@ meeting-intel/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/meeting-intel.git
+git clone https://github.com/jenilpatel27/meeting-intel.git
 cd meeting-intel
 ```
 
