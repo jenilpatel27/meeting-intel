@@ -36,6 +36,7 @@ approval gate at every stage.
 
 ## 📁 Folder Structure
 
+```text
 meeting-intel/
 │
 ├── .env                        ← Your secrets (never committed)
@@ -64,7 +65,8 @@ meeting-intel/
 │   └── app.py                  ← Complete Streamlit UI (all 5 stages)
 │
 └── data/
-└── projects.db             ← Auto-created SQLite database
+    └── projects.db             ← Auto-created SQLite database
+```
 
 ---
 
