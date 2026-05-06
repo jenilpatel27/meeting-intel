@@ -306,4 +306,4 @@ pip install langchain-anthropic # for Claude
 
 ## 👤 Author
 
-Built as a technical assessment for an AI Engineer role.
+Jenil Patel 
