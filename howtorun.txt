@@ -1,0 +1,3 @@
+Terminal 1 CMD: uvicorn backend.main:app --reload --port 8000
+Open another Terminal
+Terminal 2 CMD: streamlit run frontend/app.py
