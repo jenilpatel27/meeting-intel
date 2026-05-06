@@ -155,6 +155,7 @@ Verify the backend is running: **http://localhost:8000/health**
 3. Select **Scrum** → Choose **Company-managed** (not Team-managed)
 4. Note your **Project Key** (e.g. `MIS`)
 
+> ⚠️ Projects in Jira are renamed to Spaces/Space.
 > ⚠️ Must be a Company-managed (classic) project. Team-managed projects
 > do not support the Agile Sprint API or Epic Link custom fields.
 
